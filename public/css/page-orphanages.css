@@ -28,5 +28,24 @@ aside p{
 
 aside footer p{
     margin-top: .7rem;
-    
 }
+
+#mapid{
+    width: 50%;
+}
+
+a.create-orphannages{
+    position: absolute;
+    width: 5.4rem;
+    height: 5.4rem;
+
+    background: #15C3D6;
+    border:0;
+    border-radius: 1.8rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+    
